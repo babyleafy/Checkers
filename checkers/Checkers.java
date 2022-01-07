@@ -33,7 +33,7 @@ public class Checkers {
     private LinkedList<Move> storedMoves;
     public int selectedRow;
     public int selectedCol;
-    public static final String SAVE_FILE = "C:\\Users\\erikw\\Downloads\\hw09_local\\hw09_local_temp\\files\\checkers.text";
+    public static final String SAVE_FILE = "files\\checkers.text";
 
     /**
      * Constructor sets up game state.
