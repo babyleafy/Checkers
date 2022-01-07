@@ -1,4 +1,4 @@
-package org.cis120.checkers;
+package checkers;
 
 /**
  * Piece class represents a checkers piece
