@@ -1,4 +1,4 @@
-package org.cis120.checkers;
+package checkers;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
