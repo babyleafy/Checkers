@@ -1,6 +1,6 @@
 # Checkers
 
-##**Rules and Instructions**
+## Rules and Instructions
 
 A comprehensive two-player checkers game coded using Java Swing. 
 This game uses standard American checkers rules, instructions for which 
@@ -24,7 +24,7 @@ many jumps to take. To end the turn, simply click on the piece again.
 To continue jumping, simply continue clicking on the desired square of 
 the jump. Enjoy playing!
 
-##**Class Overview**
+## Class Overview
 
 - Checkers.java acts a model for the game, containing all the functions 
 for manipulating and storing the game state. It calculates possible moves 
@@ -47,7 +47,7 @@ restoring the game state.
 and king status of a piece. These pieces are the objects stored in the board
 2D array.
 
-##**Design Concepts**
+## Design Concepts
   1. 2D arrays. The 2D array represents the current state of the board on which 
   the checkers game is played. The state of each square will be stored in as an 
   object in the array. At the beginning of the game, the board is reset using a
